@@ -4,6 +4,7 @@
 **Appzepto** is a real-time chat application built using the MERN stack and Socket.io. It allows users to send text messages and images instantly, providing a seamless messaging experience. This project was developed to understand the challenges of real-time communication in web applications and to improve full-stack development skills.
 
 ---
+#  there at time of login click the refresh button of browser (it taking time )
 
 ## Problem Statement
 During development, I faced several key challenges:
